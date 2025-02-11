@@ -1,4 +1,4 @@
-# LBL_VOLABS
+# Simple AI Voice-over generator ✨
 
 A Docker-based text-to-speech conversion tool using ElevenLabs API.
 
